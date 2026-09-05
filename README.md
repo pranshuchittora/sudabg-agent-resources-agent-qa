@@ -173,6 +173,8 @@
 - [mcp-use](https://github.com/mcp-use/mcp-use) - Fullstack MCP framework for ChatGPT/Claude + MCP Servers. ⭐10K
 - [HexStrike AI](https://github.com/0x4m4/hexstrike-ai) - MCP Server for 150+ security/pentest tools. ⭐8.6K — 安全领域 MCP 深度集成
 
+- [Agent QA](https://github.com/vostride/agent-qa) - MCP tools for authoring, running, and inspecting web, Android, and iOS tests, with execution memory for repeat runs. `TypeScript` `FSL-1.1-ALv2`
+
 ### Monitoring & Health
 
 - **Health Audit Script** — 5-point daily check: processes, disk, network, config, git status. Score 0-100.
